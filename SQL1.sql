@@ -1,0 +1,12 @@
+-- CREATE DATABASE Carbon_Footprint_Calculator
+-- CREATE TABLE carbon_footprint (
+--     id INT AUTO_INCREMENT PRIMARY KEY,
+--     distance DECIMAL(10, 2),
+--     vehicle_type VARCHAR(255),
+--     electricity_usage DECIMAL(10, 2),
+--     daily_activities JSON,
+--     car_carbon_footprint DECIMAL(10, 2),
+--     daily_activities_carbon_footprint DECIMAL(10, 2),
+--     total_carbon_footprint DECIMAL(10, 2)
+-- );
+-- select * from carbon_footprint;
